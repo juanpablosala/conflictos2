@@ -1,1 +1,1 @@
-# conflictos2
+# este es el archivo README.md
